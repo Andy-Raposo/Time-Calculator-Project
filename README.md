@@ -1,4 +1,4 @@
-## Add Time 1.0 - Time Calculator with AM/PM and Weekday Support
+## Time Duration Calculator - Time Calculator with AM/PM and Weekday Support
 
 This is my custom Python function to add a duration to a given start time in 12-hour AM/PM format. It's a project I designed as part of
 freeCodeCamp's Certification in Python (Scientific Computing). It optionally supports calculating the resulting weekday and tracks how many
